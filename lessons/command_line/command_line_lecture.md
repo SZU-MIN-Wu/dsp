@@ -195,6 +195,7 @@ ls -lh
 ```
 
 > What changed?
+>> The unit for file size changes to a easier to read version. 
 
 If instead copying we just want to change the name of a file, we can do:
 
