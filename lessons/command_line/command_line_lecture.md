@@ -120,6 +120,7 @@ Now nothing shows up on the screen. List the files and see if you can tell
 why.
 
 > Hint: we learned how to list all the files up above.
+>> type ls in the terminal and you will see the test_file.txt is created. 
 
 The greater than says, "put that output into the following file instead."
 
