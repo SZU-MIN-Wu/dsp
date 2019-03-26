@@ -2,4 +2,5 @@
 
 >> In the pregnancy length between first babies and others, the difference in means is 0.029 standard deviations, which is small. However, in the total weight case. The Cohen's effect is -0.089, which means the difference in means is 0.089 standard deviations. The total weight difference between first babies and others has higher effect than pregnancy length.
 
-`print(CohenEffectSize(firsts.totalwgt_lb, others.totalwgt_lb))`
+`python 
+print(CohenEffectSize(firsts.totalwgt_lb, others.totalwgt_lb))`
