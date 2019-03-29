@@ -2,7 +2,7 @@
 
 ---
 
->> When the iteration increase the RMSE and mean error decrease, which indicated the estimation is biased. 
+>> The mean error is small and decreases with iterations, so this estimator appears to be unbiased. 
 
 ```
 def SimulateGame(lam=5, iters=100000):
